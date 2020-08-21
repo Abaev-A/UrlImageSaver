@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UrlImageSaver": {
+      "commandName": "Project",
+      "commandLineArgs": "\"ozon.ru\""
+    }
+  }
+}
